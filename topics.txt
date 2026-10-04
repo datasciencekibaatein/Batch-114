@@ -1,0 +1,8 @@
+- Variable
+- Datatype
+- Operators
+- Conditional Statments
+- In-built Datastructure
+- Iterative Statement
+- String Funcions
+- Exception Handling
